@@ -76,7 +76,7 @@ export default function HomePage() {
                 alt="David's Stump Grinding Logo"
                 className="h-8 sm:h-10 w-auto"
               />
-              <span className="font-serif font-bold text-lg sm:text-xl text-secondary">David's Landscaping</span>
+              <span className="font-serif font-bold text-lg sm:text-xl text-secondary">David's Stump Grinding Logo & Landscaping</span>
             </div>
 
             {/* Desktop Navigation */}
