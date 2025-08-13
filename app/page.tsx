@@ -249,7 +249,7 @@ export default function HomePage() {
           <div className="text-center space-y-4 mb-12 sm:mb-16">
             <Badge className="bg-primary/10 text-primary border-primary/20 shadow-rustic">Our Services</Badge>
             <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-secondary">
-              Complete  Landscaping Solutions
+              Complete Stump Grinding & Landscaping Solutions
             </h2>
             <p className="text-lg sm:text-xl text-secondary/80 max-w-3xl mx-auto">
               From stump removal to decorative landscaping, we provide comprehensive outdoor services
@@ -278,14 +278,14 @@ export default function HomePage() {
                 title: "Planting",
                 description:
                   "Expert tree and shrub planting services. We help you choose the right plants for your space.",
-                image: "/tree-planting-landscaping.png",
+                image: "https://www.blackforesttrees.com.au/wp-content/uploads/2023/02/Planting-Trees-3.jpg",
               },
               {
                 icon: Mountain,
                 title: "Decorative Rocks",
                 description:
                   "Beautiful landscaping rocks and stones to enhance your outdoor aesthetic and functionality.",
-                image: "/placeholder-pz2ie.png",
+                image: "https://southweststonesupply.com/wp-content/uploads/2020/04/decorative-rock-in-Columbia-MO.jpg",
               },
             ].map((service, index) => (
               <Card
