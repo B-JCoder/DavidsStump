@@ -76,7 +76,7 @@ export default function HomePage() {
                 alt="David's Stump Grinding Logo"
                 className="h-8 sm:h-10 w-auto"
               />
-              <span className="font-serif font-bold text-lg sm:text-xl text-secondary">David's Stump Grinding Logo & Landscaping</span>
+              <span className="font-serif font-bold text-lg sm:text-xl text-secondary">David's Stump Grinding & Landscaping</span>
             </div>
 
             {/* Desktop Navigation */}
@@ -249,7 +249,7 @@ export default function HomePage() {
           <div className="text-center space-y-4 mb-12 sm:mb-16">
             <Badge className="bg-primary/10 text-primary border-primary/20 shadow-rustic">Our Services</Badge>
             <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-bold text-secondary">
-              Complete Landscaping Solutions
+              Complete  Landscaping Solutions
             </h2>
             <p className="text-lg sm:text-xl text-secondary/80 max-w-3xl mx-auto">
               From stump removal to decorative landscaping, we provide comprehensive outdoor services
